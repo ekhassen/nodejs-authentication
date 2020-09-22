@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "action": "Breakfast",
+        "date": "02/05/2020"
+    },
+    {
+        "id": "2",
+        "action": "work",
+        "date": "02/05/2020"
+    },
+    {
+        "id": "3",
+        "action": "lunch",
+        "date": "02/05/2020"
+    },
+    {
+        "id": "4",
+        "action": "work",
+        "date": "02/05/2020"
+    }
+]
